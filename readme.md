@@ -2,7 +2,7 @@
 
 ## TODO
 
-    ** Login/register page
-    ** index  page
-    ** product page
-    ** ..
+- Login/register page
+- index  page
+- product page
+- ..
